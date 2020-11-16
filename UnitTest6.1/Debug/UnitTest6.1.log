@@ -1,0 +1,4 @@
+﻿  UnitTest6.1.cpp
+Y:\Programming\Projects\Lab6.1\Lab6.1\Lab6.1.cpp(55): warning C4715: 'AmountRekurs': not all control paths return a value
+Y:\Programming\Projects\Lab6.1\Lab6.1\Lab6.1.cpp(66): warning C4715: 'SumRekurs': not all control paths return a value
+  UnitTest6.1.vcxproj -> Y:\Programming\Projects\Lab6.1\Debug\UnitTest6.1.dll
